@@ -23,7 +23,7 @@
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mellon-TANG&show_icons=true&locale=en" alt="Mellon-TANG" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mellon-TANG&show_icons=true&locale=en" alt="Mellon-TANG" />
 </p>
 
 
